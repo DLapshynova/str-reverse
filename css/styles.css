@@ -1,0 +1,10 @@
+body {
+    background: url("../images/body_fill.png") repeat-x;
+}
+.btn {
+    width: 120px;
+}
+
+h3 {
+    line-height: 40px;
+}
